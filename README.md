@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **https://www.linkedin.com/in/vivek-kumar-singh-5b502a203/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svivek2002&show_icons=true&locale=en" alt="svivek2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svivek2002&" alt="svivek2002" /></p>
-)
+
