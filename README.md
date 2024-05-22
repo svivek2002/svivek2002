@@ -1,4 +1,4 @@
-
+![logo](https://www.canva.com/design/DAGF9dAxKI8/TSAcicIbcoMiTMWFoPFDCA/edit)
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
